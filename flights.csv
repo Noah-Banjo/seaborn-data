@@ -1,145 +1,144 @@
-year,month,passengers
-1949,January,112
-1949,February,118
-1949,March,132
-1949,April,129
-1949,May,121
-1949,June,135
-1949,July,148
-1949,August,148
-1949,September,136
-1949,October,119
-1949,November,104
-1949,December,118
-1950,January,115
-1950,February,126
-1950,March,141
-1950,April,135
-1950,May,125
-1950,June,149
-1950,July,170
-1950,August,170
-1950,September,158
-1950,October,133
-1950,November,114
-1950,December,140
-1951,January,145
-1951,February,150
-1951,March,178
-1951,April,163
-1951,May,172
-1951,June,178
-1951,July,199
-1951,August,199
-1951,September,184
-1951,October,162
-1951,November,146
-1951,December,166
-1952,January,171
-1952,February,180
-1952,March,193
-1952,April,181
-1952,May,183
-1952,June,218
-1952,July,230
-1952,August,242
-1952,September,209
-1952,October,191
-1952,November,172
-1952,December,194
-1953,January,196
-1953,February,196
-1953,March,236
-1953,April,235
-1953,May,229
-1953,June,243
-1953,July,264
-1953,August,272
-1953,September,237
-1953,October,211
-1953,November,180
-1953,December,201
-1954,January,204
-1954,February,188
-1954,March,235
-1954,April,227
-1954,May,234
-1954,June,264
-1954,July,302
-1954,August,293
-1954,September,259
-1954,October,229
-1954,November,203
-1954,December,229
-1955,January,242
-1955,February,233
-1955,March,267
-1955,April,269
-1955,May,270
-1955,June,315
-1955,July,364
-1955,August,347
-1955,September,312
-1955,October,274
-1955,November,237
-1955,December,278
-1956,January,284
-1956,February,277
-1956,March,317
-1956,April,313
-1956,May,318
-1956,June,374
-1956,July,413
-1956,August,405
-1956,September,355
-1956,October,306
-1956,November,271
-1956,December,306
-1957,January,315
-1957,February,301
-1957,March,356
-1957,April,348
-1957,May,355
-1957,June,422
-1957,July,465
-1957,August,467
-1957,September,404
-1957,October,347
-1957,November,305
-1957,December,336
-1958,January,340
-1958,February,318
-1958,March,362
-1958,April,348
-1958,May,363
-1958,June,435
-1958,July,491
-1958,August,505
-1958,September,404
-1958,October,359
-1958,November,310
-1958,December,337
-1959,January,360
-1959,February,342
-1959,March,406
-1959,April,396
-1959,May,420
-1959,June,472
-1959,July,548
-1959,August,559
-1959,September,463
-1959,October,407
-1959,November,362
-1959,December,405
-1960,January,417
-1960,February,391
-1960,March,419
-1960,April,461
-1960,May,472
-1960,June,535
-1960,July,622
-1960,August,606
-1960,September,508
-1960,October,461
-1960,November,390
-1960,December,432
+Row Labels,Sum of year,Sum of lifeExp
+Afghanistan,23754,449.746
+Albania,23754,821.195
+Algeria,23754,708.362
+Angola,23754,454.602
+Argentina,23754,828.725
+Australia,23754,895.955
+Austria,23754,877.239
+Bahrain,23754,787.268
+Bangladesh,23754,598.009
+Belgium,23754,883.701
+Benin,23754,585.359
+Bolivia,23754,630.055
+Bosnia and Herzegovina,23754,812.494
+Botswana,23754,655.17
+Brazil,23754,746.874
+Bulgaria,23754,836.925
+Burkina Faso,23754,536.328
+Burundi,23754,537.808
+Cambodia,23754,574.833
+Cameroon,23754,577.542
+Canada,23754,898.833
+Central African Republic,23754,526.403
+Chad,23754,561.283
+Chile,23754,809.171
+China,23754,741.42168
+Colombia,23754,766.773
+Comoros,23754,628.581
+Congo Dem. Rep.,23754,534.525
+Congo Rep.,23754,630.023
+Costa Rica,23754,842.177
+Cote d'Ivoire,23754,581.234
+Croatia,23754,840.671
+Cuba,23754,852.541
+Czech Republic,23754,858.126
+Denmark,23754,892.442
+Djibouti,23754,556.569
+Dominican Republic,23754,738.654
+Ecuador,23754,753.802
+Egypt,23754,674.916
+El Salvador,23754,715.6
+Equatorial Guinea,23754,515.52
+Eritrea,23754,551.991
+Ethiopia,23754,533.709
+Finland,23754,875.903
+France,23754,892.187
+Gabon,23754,614.646
+Gambia,23754,532.807
+Germany,23754,881.333
+Ghana,23754,628.088
+Greece,23754,884.798
+Guatemala,23754,680.753
+Guinea,23754,518.878
+Guinea-Bissau,23754,470.523
+Haiti,23754,601.983
+Honduras,23754,695.05
+Hong Kong China,23754,881.914
+Hungary,23754,832.718
+Iceland,23754,918.137
+India,23754,637.993
+Indonesia,23754,652.029
+Iran,23754,703.639
+Iraq,23754,678.981
+Ireland,23754,876.207
+Israel,23754,883.75
+Italy,23754,888.166
+Jamaica,23754,824.992
+Japan,23754,897.923
+Jordan,23754,717.437
+Kenya,23754,632.172
+Korea Dem. Rep.,23754,763.288
+Korea Rep.,23754,780.012
+Kuwait,23754,827.068
+Lebanon,23754,790.388
+Lesotho,23754,600.085
+Liberia,23754,509.715
+Libya,23754,711.65
+Madagascar,23754,573.247
+Malawi,23754,520.219
+Malaysia,23754,771.355
+Mali,23754,520.962
+Mauritania,23754,627.625
+Mauritius,23754,779.439
+Mexico,23754,784.906
+Mongolia,23754,670.684
+Montenegro,23754,843.59
+Morocco,23754,691.306
+Mozambique,23754,484.554
+Myanmar,23754,639.86
+Namibia,23754,641.896
+Nepal,23754,587.836
+Netherlands,23754,907.782
+New Zealand,23754,887.874
+Nicaragua,23754,700.193
+Niger,23754,534.704
+Nigeria,23754,522.976
+Norway,23754,910.116
+Oman,23754,701.312
+Pakistan,23754,658.587
+Panama,23754,813.621
+Paraguay,23754,801.709
+Peru,23754,706.312
+Philippines,23754,731.607
+Poland,23754,842.123
+Portugal,23754,845.038
+Puerto Rico,23754,872.872
+Reunion,23754,799.731
+Romania,23754,819.488
+Rwanda,23754,497.779
+Sao Tome and Principe,23754,694.756
+Saudi Arabia,23754,704.145
+Senegal,23754,607.511
+Serbia,23754,822.612
+Sierra Leone,23754,441.23
+Singapore,23754,854.643
+Slovak Republic,23754,848.353
+Slovenia,23754,859.209
+Somalia,23754,491.864
+South Africa,23754,647.918
+Spain,23754,890.441
+Sri Lanka,23754,798.313
+Sudan,23754,580.806
+Swaziland,23754,588.029
+Sweden,23754,914.124
+Switzerland,23754,906.781
+Syria,23754,736.154
+Taiwan,23754,844.04
+Tanzania,23754,574.948
+Thailand,23754,746.403
+Togo,23754,617.985
+Trinidad and Tobago,23754,801.936
+Tunisia,23754,728.652
+Turkey,23754,716.357
+Uganda,23754,571.426
+United Kingdom,23754,887.071
+United States,23754,881.742
+Uruguay,23754,849.379
+Venezuela,23754,798.968
+Vietnam,23754,689.754
+West Bank and Gaza,23754,723.944
+Yemen Rep.,23754,561.365
+Zambia,23754,551.956
+Zimbabwe,23754,631.958
+Grand Total,3373068,101344.4447
